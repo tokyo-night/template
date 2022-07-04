@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/theme-icon.png" alt="Tokyo Night Icon"/>
+    <img src="./images/theme-icon.png" width="100" alt="Tokyo Night Icon"/>
     <h1>Tokyo Night for APP</h1>
     <a href="https://github.com/tokyo-night/template/stargazers">
         <img src="https://img.shields.io/github/stars/tokyo-night/template.svg?style=for-the-badge&labelColor=24283b&color=73daca"/>
